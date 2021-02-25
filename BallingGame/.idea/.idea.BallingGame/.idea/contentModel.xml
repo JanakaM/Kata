@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Temp\BallingGame\BallingGame" t="IncludeFlat">
+      <e p="BallingGame" t="IncludeRecursive">
+        <e p="BallingGame.csproj" t="IncludeRecursive" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="FinalFrame.cs" t="Include" />
+        <e p="Game.cs" t="Include" />
+        <e p="GeneralFrame.cs" t="Include" />
+        <e p="Interfaces" t="Include">
+          <e p="IFinalFrame.cs" t="Include" />
+          <e p="IFrame.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="BallingGame.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="SpareFrame .cs" t="Include" />
+        <e p="StrikeFrame.cs" t="Include" />
+      </e>
+      <e p="BallingGame.sln" t="IncludeFlat" />
+      <e p="BallingGameTests" t="IncludeRecursive">
+        <e p="BallingGameTests.csproj" t="IncludeRecursive" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="FrameTests.cs" t="Include" />
+        <e p="GameTests.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="BallingGameTests.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+    <e p="C:\Users\JanakaMalalagama\.nuget\packages\microsoft.net.test.sdk\16.9.0-preview-20210127-04\build\netcoreapp2.1" t="Include">
+      <e p="Microsoft.NET.Test.Sdk.Program.cs" t="Include" />
+    </e>
+    <e p="C:\Users\JanakaMalalagama\.nuget\packages\microsoft.testplatform.testhost\16.9.0-preview-20210127-04\build\netcoreapp2.1\x64\Microsoft.TestPlatform.PlatformAbstractions.dll" t="Include" />
+    <e p="C:\Users\JanakaMalalagama\.nuget\packages\microsoft.testplatform.testhost\16.9.0-preview-20210127-04\build\netcoreapp2.1\x64\testhost.dll" t="Include" />
+    <e p="C:\Users\JanakaMalalagama\.nuget\packages\microsoft.testplatform.testhost\16.9.0-preview-20210127-04\build\netcoreapp2.1\x64\testhost.exe" t="Include" />
+    <e p="C:\Users\JanakaMalalagama\.nuget\packages\xunit.runner.visualstudio\2.4.3\build\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll" t="Include" />
+    <e p="C:\Users\JanakaMalalagama\.nuget\packages\xunit.runner.visualstudio\2.4.3\build\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll" t="Include" />
+    <e p="C:\Users\JanakaMalalagama\.nuget\packages\xunit.runner.visualstudio\2.4.3\build\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll" t="Include" />
+    <e p="C:\Users\JanakaMalalagama\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\JanakaMalalagama\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_BallingGame.31618424.00" t="ExcludeRecursive" />
+  </component>
+</project>
