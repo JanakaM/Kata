@@ -4,6 +4,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BallingGame", "BallingGame\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BallingGameTests", "BallingGameTests\BallingGameTests.csproj", "{475FA069-D58A-4BAB-9F23-3C98986718C5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HarryPotterBook", "..\HarryPotterBook\HarryPotterBook\HarryPotterBook.csproj", "{872E89CB-3A3C-4F52-9ECF-0E87D38DD6D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HarryPotterBookTests", "HarryPotterBookTests\HarryPotterBookTests.csproj", "{5336B253-54CD-4535-88FD-330045252F39}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +22,13 @@ Global
 		{475FA069-D58A-4BAB-9F23-3C98986718C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{475FA069-D58A-4BAB-9F23-3C98986718C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{475FA069-D58A-4BAB-9F23-3C98986718C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{872E89CB-3A3C-4F52-9ECF-0E87D38DD6D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{872E89CB-3A3C-4F52-9ECF-0E87D38DD6D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{872E89CB-3A3C-4F52-9ECF-0E87D38DD6D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{872E89CB-3A3C-4F52-9ECF-0E87D38DD6D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5336B253-54CD-4535-88FD-330045252F39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5336B253-54CD-4535-88FD-330045252F39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5336B253-54CD-4535-88FD-330045252F39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5336B253-54CD-4535-88FD-330045252F39}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

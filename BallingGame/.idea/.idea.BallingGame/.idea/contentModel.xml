@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="C:\Temp\BallingGame\BallingGame" t="IncludeFlat">
+    <e p="C:\Temp\GitHub\Kata\BallingGame" t="IncludeFlat">
       <e p="BallingGame" t="IncludeRecursive">
         <e p="BallingGame.csproj" t="IncludeRecursive" />
         <e p="bin" t="ExcludeRecursive" />
@@ -36,7 +36,33 @@
           </e>
         </e>
       </e>
+      <e p="HarryPotterBookTests" t="IncludeRecursive">
+        <e p="BasketAddBookTests.cs" t="Include" />
+        <e p="BasketTotalCostTests.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="CalculateBasketTotalScenariosTests.cs" t="Include" />
+        <e p="HarryPotterBookTests.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+      </e>
       <e p="packages" t="ExcludeRecursive" />
+    </e>
+    <e p="C:\Temp\GitHub\Kata\HarryPotterBook\HarryPotterBook" t="IncludeRecursive">
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="HarryPotterBook.csproj" t="IncludeRecursive" />
+      <e p="Model" t="Include">
+        <e p="Book.cs" t="Include" />
+        <e p="BookSet.cs" t="Include" />
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Properties" t="Include">
+        <e p="AssemblyInfo.cs" t="Include" />
+      </e>
+      <e p="Service" t="Include">
+        <e p="Basket.cs" t="Include" />
+      </e>
     </e>
     <e p="C:\Users\JanakaMalalagama\.nuget\packages\microsoft.net.test.sdk\16.9.0-preview-20210127-04\build\netcoreapp2.1" t="Include">
       <e p="Microsoft.NET.Test.Sdk.Program.cs" t="Include" />
@@ -48,6 +74,6 @@
     <e p="C:\Users\JanakaMalalagama\.nuget\packages\xunit.runner.visualstudio\2.4.3\build\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll" t="Include" />
     <e p="C:\Users\JanakaMalalagama\.nuget\packages\xunit.runner.visualstudio\2.4.3\build\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll" t="Include" />
     <e p="C:\Users\JanakaMalalagama\.Rider2019.2\system\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\JanakaMalalagama\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_BallingGame.31618424.00" t="ExcludeRecursive" />
+    <e p="C:\Users\JanakaMalalagama\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_BallingGame.-765542497.00" t="ExcludeRecursive" />
   </component>
 </project>
