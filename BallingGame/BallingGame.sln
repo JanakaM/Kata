@@ -6,7 +6,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BallingGameTests", "Balling
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HarryPotterBook", "..\HarryPotterBook\HarryPotterBook\HarryPotterBook.csproj", "{872E89CB-3A3C-4F52-9ECF-0E87D38DD6D2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HarryPotterBookTests", "HarryPotterBookTests\HarryPotterBookTests.csproj", "{5336B253-54CD-4535-88FD-330045252F39}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HarryPotterBookTests", "..\HarryPotterBook\HarryPotterBookTests\HarryPotterBookTests.csproj", "{5336B253-54CD-4535-88FD-330045252F39}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
