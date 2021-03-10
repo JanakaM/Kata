@@ -37,15 +37,7 @@
         </e>
       </e>
       <e p="HarryPotterBookTests" t="IncludeRecursive">
-        <e p="BasketAddBookTests.cs" t="Include" />
-        <e p="BasketTotalCostTests.cs" t="Include" />
-        <e p="bin" t="ExcludeRecursive" />
-        <e p="CalculateBasketTotalScenariosTests.cs" t="Include" />
         <e p="HarryPotterBookTests.csproj" t="IncludeRecursive" />
-        <e p="obj" t="ExcludeRecursive" />
-        <e p="Properties" t="Include">
-          <e p="AssemblyInfo.cs" t="Include" />
-        </e>
       </e>
       <e p="packages" t="ExcludeRecursive" />
     </e>
