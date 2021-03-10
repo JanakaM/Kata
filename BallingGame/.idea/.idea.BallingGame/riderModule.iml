@@ -3,6 +3,7 @@
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$/../.." />
     <content url="file://$MODULE_DIR$/../../../HarryPotterBook/HarryPotterBook" />
+    <content url="file://$MODULE_DIR$/../../../HarryPotterBook/HarryPotterBookTests" />
     <content url="file://$USER_HOME$/.nuget/packages/microsoft.net.test.sdk/16.9.0-preview-20210127-04/build/netcoreapp2.1" />
     <content url="file://$USER_HOME$/.nuget/packages/microsoft.testplatform.testhost/16.9.0-preview-20210127-04/build/netcoreapp2.1/x64/Microsoft.TestPlatform.PlatformAbstractions.dll" />
     <content url="file://$USER_HOME$/.nuget/packages/microsoft.testplatform.testhost/16.9.0-preview-20210127-04/build/netcoreapp2.1/x64/testhost.dll" />

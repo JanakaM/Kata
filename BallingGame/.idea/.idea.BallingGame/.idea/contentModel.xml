@@ -36,9 +36,6 @@
           </e>
         </e>
       </e>
-      <e p="HarryPotterBookTests" t="IncludeRecursive">
-        <e p="HarryPotterBookTests.csproj" t="IncludeRecursive" />
-      </e>
       <e p="packages" t="ExcludeRecursive" />
     </e>
     <e p="C:\Temp\GitHub\Kata\HarryPotterBook\HarryPotterBook" t="IncludeRecursive">
@@ -54,6 +51,17 @@
       </e>
       <e p="Service" t="Include">
         <e p="Basket.cs" t="Include" />
+      </e>
+    </e>
+    <e p="C:\Temp\GitHub\Kata\HarryPotterBook\HarryPotterBookTests" t="IncludeRecursive">
+      <e p="BasketAddBookTests.cs" t="Include" />
+      <e p="BasketTotalCostTests.cs" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="CalculateBasketTotalScenariosTests.cs" t="Include" />
+      <e p="HarryPotterBookTests.csproj" t="IncludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Properties" t="Include">
+        <e p="AssemblyInfo.cs" t="Include" />
       </e>
     </e>
     <e p="C:\Users\JanakaMalalagama\.nuget\packages\microsoft.net.test.sdk\16.9.0-preview-20210127-04\build\netcoreapp2.1" t="Include">
